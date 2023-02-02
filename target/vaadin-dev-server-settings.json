@@ -1,0 +1,16 @@
+{
+  "frontendFolder": "/Users/thomasvignos/Downloads/demo/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/thomasvignos/Downloads/demo/./frontend/generated/jar-resources",
+  "staticOutput": "/Users/thomasvignos/Downloads/demo/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/thomasvignos/Downloads/demo/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/thomasvignos/Downloads/demo/target/classes/META-INF/VAADIN/webapp",
+  "jarResourcesFolder": "/Users/thomasvignos/Downloads/demo/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/thomasvignos/Downloads/demo/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
